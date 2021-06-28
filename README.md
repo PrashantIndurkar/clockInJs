@@ -1,3 +1,4 @@
-# clockInJs
-The website it will display live time.
-using HTML,CSS and JavaScript
+# Clock In JavaScript 
+  The website it will display live time.
+
+ Using HTML,CSS and JavaScript
